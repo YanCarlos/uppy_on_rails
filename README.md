@@ -27,7 +27,7 @@ Add the js import in `app/assets/javascripts/application.js`:
 //= require uppy_on_rails
 ```
 
-And add the css import in `app/assets/stylesheets/application.css`:
+And add the css import in `app/assets/stylesheets/application.scss`:
 
 ```js
  *= require uppy_on_rails
